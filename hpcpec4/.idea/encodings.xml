@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Algorithm.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/AlgorithmTester.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/CEdge.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/CNode.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/CWS.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/ElapsedTime.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Inputs.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/InputsManager.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Outputs.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Route.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Solution.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Test.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/Testing.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/TestsManager.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/biasedCWS/BiasedRandomCWS.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/biasedCWS/ObjectCloner.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/biasedCWS/RouteCache.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/edu/uoc/pec2/test2Run.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Algorithm.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/AlgorithmTester.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/CEdge.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/CNode.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/CWS.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/ElapsedTime.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Inputs.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/InputsManager.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Outputs.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Route.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Solution.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Test.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/Testing.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/TestsManager.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/biasedCWS/BiasedRandomCWS.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/biasedCWS/ObjectCloner.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/biasedCWS/RouteCache.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uoc/pec2/test2Run.txt" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
